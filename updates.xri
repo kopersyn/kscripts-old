@@ -5,8 +5,8 @@
       This is the repository for old versions of PixInsight scripts by Igor Koprowicz.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts-old.zip" sha1="923c2dcb879987baf28170bd739ad8e4b40f0ca0" type="script" releaseDate="20250106">
+   <platform os="all" arch="noarch" version="1.8.8:1.9.1">
+      <package fileName="kscripts-old.zip" sha1="f0b427c38e0924ff8eba80262a46fad961a1b52d" type="script" releaseDate="20250106">
          <title>
         kAdvStarStretch V1.1
       </title>
